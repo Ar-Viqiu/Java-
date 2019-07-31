@@ -1,6 +1,6 @@
 package demo1;
 
-public class demo02 {
+public class demo01 {
 	public static void main(String args[]) {
 		int myTable[][] = { { 23, 45, 65, 34, 21, 67, 78 }, { 46, 14, 18, 46, 98, 63, 88 },
 				{ 98, 81, 64, 90, 21, 14, 23 }, { 54, 43, 55, 76, 22, 43, 33 } };
