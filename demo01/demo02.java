@@ -1,6 +1,6 @@
 package demo1;
 
-public class demo01 {
+public class demo02 {
 	public static void main(String args[]) {
 		int [] [] agas = new int [4] [7];//声明并创建数组agas。
 		int [] firstArray = agas [0];//声明并创建数组firstArray，并且赋值为agas的第一维元素数。
