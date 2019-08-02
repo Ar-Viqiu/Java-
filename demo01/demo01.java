@@ -1,3 +1,5 @@
+//这个实例是计算某数组的各个二维元素之和，并找出它们间的最大数值。
+
 package demo1;
 
 public class demo01 {
