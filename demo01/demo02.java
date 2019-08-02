@@ -1,3 +1,5 @@
+//计算某两个数组的相乘积。
+
 package demo1;
 
 public class demo02 {
