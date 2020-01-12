@@ -5,7 +5,8 @@ package demo1;
 import java.util.Scanner;		//引入Scanner类。
 public class ScannerDemo {
 	public static void main (String[] args) {
-		String message;		//创建一个变量。
+		String message;		
+		//创建一个字符串变量message，输入的文本将会保存到这里。
 		Scanner scan=new Scanner (System.in);		//创建从键盘输入的对象scan。
 		System.out.println("Enter a line of text:");	
 		message=scan.nextLine();		//从键盘读入一行。
