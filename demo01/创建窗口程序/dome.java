@@ -17,4 +17,5 @@ public static void main(String agrs[]) {
 	f.setVisible(true);//窗口显示
 	f.setSize(300,300);//窗口大小
 	f.setLocation(500,300);//窗口初始位置
+	f.setDefaultCloseOperation(EXIT_ON_CLOSE);//关闭后台运行
 }
